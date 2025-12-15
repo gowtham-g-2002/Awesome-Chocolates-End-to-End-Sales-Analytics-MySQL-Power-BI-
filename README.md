@@ -1,9 +1,11 @@
 🍫 Awesome Chocolates – Sales Analytics Dashboard (MySQL + Power BI)
 
 
+
 An end-to-end Sales Analytics project built using MySQL and Power BI to analyze sales performance, shipment efficiency, product categories, and salesperson productivity for Awesome Chocolates.
 
 This project demonstrates the complete analytics workflow — from relational database design and SQL data storage to interactive dashboards and business insights in Power BI.
+
 
 
 📊 Overview
@@ -25,9 +27,11 @@ Product Category-wise analysis (Bars, Bites, Other)
 Interactive date, region, geo & category filters
 
 
+
 🗄 Database Overview (MySQL)
 
 The backend data is stored in a relational MySQL database following a star-schema-like structure.
+
 
 
 Tables Used:
@@ -43,6 +47,7 @@ products – Product details, category, size, and cost per box
 Primary keys and relationships were designed to ensure data integrity and efficient analytics.
 
 
+
 🎯 Goals
 
 Track overall sales performance and growth trends
@@ -54,6 +59,7 @@ Analyze salesperson productivity
 Monitor shipment efficiency using Low Box Shipment % (LBS%)
 
 Enable data-driven decisions using interactive visuals
+
 
 
 📈 Dashboard Features & KPIs
@@ -68,6 +74,7 @@ Key Metrics:
 ⚠ Low Box Shipment Percentage (LBS%)
 
 
+
 Visual Insights:
 
 Monthly sales trend line chart
@@ -77,6 +84,7 @@ Geography-wise sales comparison
 Salesperson ranking table
 
 Category-level filtering for deeper analysis
+
 
 
 🛠 Tools & Technologies Used
@@ -102,6 +110,7 @@ Relational data modeling
 Backend data preparation
 
 
+
 🧠 Business Insights
 
 This dashboard helps in:
@@ -117,6 +126,7 @@ Understanding category-wise sales contribution
 Supporting sales planning and operational optimization
 
 
+
 📌 Project Highlights
 
 End-to-end MySQL → Power BI integration
@@ -128,6 +138,7 @@ Business-focused KPIs and visuals
 Interview-ready analytics project
 
 Suitable for Data Analyst / BI Developer portfolios
+
 
 
 📬 Contact
